@@ -17,7 +17,7 @@
     "body-parser": "^1.20.2",
     "buffer": "^6.0.3",
     "cors": "^2.8.5",
-    "express": "^4.19.2",
+    "express": "^4.21.2",
     "express-body-parser-error-handler": "^1.0.7",
     "express-useragent": "^1.0.15",
     "https": "^1.0.0",
